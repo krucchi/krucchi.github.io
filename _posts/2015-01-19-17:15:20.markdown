@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-01-19 17:15:20
+photo: IMG-20150119-WA0001.jpg
+caption_header:  
+caption: Tommy Lombardi
+---

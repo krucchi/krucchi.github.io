@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-10-07 18:31:52
+photo: IMG-20151007-WA0007.jpg
+caption_header:  
+caption: Flavio Laus
+---

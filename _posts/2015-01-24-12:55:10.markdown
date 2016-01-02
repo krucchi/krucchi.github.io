@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-01-24 12:55:10
+photo: IMG-20150124-WA0000.jpg
+caption_header:  Trova l'errore
+caption: Flavio Laus
+---

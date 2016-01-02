@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-12-21 00:40:35
+photo: IMG-20151221-WA0001.jpg
+caption_header:  
+caption: Marocco
+---

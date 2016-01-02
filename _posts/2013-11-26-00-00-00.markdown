@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2013-11-26 00-00-00
+photo: IMG-20131126-WA0000.jpg
+caption_header: unknown
+caption: unknown
+---

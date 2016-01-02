@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-07-03 20:27:52
+photo: IMG-20150703-WA0011.jpg
+caption_header:  
+caption: Marocco
+---

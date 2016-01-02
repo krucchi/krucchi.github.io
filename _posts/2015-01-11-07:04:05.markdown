@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-01-11 07:04:05
+photo: IMG-20150111-WA0001.jpg
+caption_header:  
+caption: Dennis Chronz
+---

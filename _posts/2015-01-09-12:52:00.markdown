@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-01-09 12:52:00
+photo: IMG-20150109-WA0003.jpg
+caption_header:  
+caption: Giulia Moneta
+---

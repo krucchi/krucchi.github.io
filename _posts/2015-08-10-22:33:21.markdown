@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-08-10 22:33:21
+photo: IMG-20150810-WA0001.jpg
+caption_header:  
+caption: Maria Fugazzola
+---

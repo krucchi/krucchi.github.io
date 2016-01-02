@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-10-06 22:48:22
+photo: IMG-20151006-WA0009.jpg
+caption_header:  Sono indecisa tra Camberi di Fiumo e gnocchi buro e salve...voi che dite?
+caption: Giulia Moneta
+---

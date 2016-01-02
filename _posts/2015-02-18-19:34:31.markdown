@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-02-18 19:34:31
+photo: IMG-20150218-WA0004.jpg
+caption_header:  
+caption: Giulia Ricciardi
+---

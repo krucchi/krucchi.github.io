@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-01-30 14:34:52
+photo: IMG-20150130-WA0001.jpg
+caption_header:  Pizza ceca, quella a destra è tutto un programma..
+caption: Tommy Lombardi
+---

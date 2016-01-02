@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-01-11 02:26:11
+photo: IMG-20150111-WA0000.jpg
+caption_header:  Trova l'errore
+caption: Tommy Lombardi
+---

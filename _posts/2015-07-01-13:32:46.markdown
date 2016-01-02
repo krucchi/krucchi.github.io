@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-07-01 13:32:46
+photo: IMG-20150701-WA0003.jpg
+caption_header:  quando lo humor crucco ci azzecca di brutto 
+caption: Basti
+---

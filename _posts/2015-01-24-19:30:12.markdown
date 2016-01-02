@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-01-24 19:30:12
+photo: IMG-20150124-WA0004.jpg
+caption_header:  
+caption: Maria Fugazzola
+---

@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-02-27 07:10:28
+photo: IMG-20150227-WA0000.jpg
+caption_header:  Uno sta tranquillo, quando c'è DERRICK a bordo.
+caption: Flavio Laus
+---

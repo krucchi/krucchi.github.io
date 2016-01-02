@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-06-30 20:40:36
+photo: IMG-20150630-WA0002.jpg
+caption_header:  
+caption: Dennis Chronz
+---

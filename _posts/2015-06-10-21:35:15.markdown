@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-06-10 21:35:15
+photo: IMG-20150611-WA0003.jpg
+caption_header:  Come dire..un grande classico appunto
+caption: Maria Fugazzola
+---

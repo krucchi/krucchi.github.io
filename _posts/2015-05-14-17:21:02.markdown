@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-05-14 17:21:02
+photo: IMG-20150514-WA0010.jpg
+caption_header:  ma il nuovo grande classico della tradizione salumaia italiana venne già postato?!
+caption: Basti
+---

@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-12-04 18:25:54
+photo: IMG-20151204-WA0011.jpg
+caption_header:  
+caption: Giulia Moneta
+---

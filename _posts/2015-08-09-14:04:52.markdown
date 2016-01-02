@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-08-09 14:04:52
+photo: IMG-20150809-WA0009.jpg
+caption_header:  Anche i francesi non sono male..
+caption: Tommy Lombardi
+---

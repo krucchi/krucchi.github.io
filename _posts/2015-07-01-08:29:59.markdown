@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-07-01 08:29:59
+photo: IMG-20150701-WA0000.jpg
+caption_header:  e qui la maserati tra le cariole
+caption: Basti
+---

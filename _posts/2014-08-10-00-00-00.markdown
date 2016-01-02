@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2014-08-10 00-00-00
+photo: IMG-20140810-WA0007.jpg
+caption_header: unknown
+caption: unknown
+---

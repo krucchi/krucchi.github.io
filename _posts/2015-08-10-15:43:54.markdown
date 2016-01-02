@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-08-10 15:43:54
+photo: IMG-20150810-WA0000.jpg
+caption_header:  Intimisimo
+caption: Martina Suozzo
+---

@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-02-18 00:28:26
+photo: IMG-20150218-WA0000.jpg
+caption_header:  Anche cercando tra i font..
+caption: Tommy Lombardi
+---

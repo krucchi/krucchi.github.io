@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-09-19 13:12:38
+photo: IMG-20150919-WA0000.jpg
+caption_header:  Da querela!
+caption: Flavio Laus
+---

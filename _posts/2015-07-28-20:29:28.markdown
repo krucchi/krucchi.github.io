@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-07-28 20:29:28
+photo: IMG-20150728-WA0001.jpg
+caption_header:  
+caption: Max Baldelli
+---

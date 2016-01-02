@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-10-17 12:42:51
+photo: IMG-20151017-WA0013.jpg
+caption_header:  Anche in Italia si danno da fare...
+caption: Maria Fugazzola
+---
