@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-09-05 13:06:46
-photo: IMG-20150905-WA0000.jpg
-caption_header:  ...per evocare l'incomnensurabile eleganza di PORTOFINO! 😓
-caption: Basti
----

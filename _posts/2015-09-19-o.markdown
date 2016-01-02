@@ -1,9 +1,0 @@
----
-layout: default
-date: 2015-09-19 15:09:28
-photo: IMG-20150919-WA0002.jpg
-caption_header:  
-caption: Jacob
----
-: Flavio Laus
----

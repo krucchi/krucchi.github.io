@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-08-13 13:08:40
-photo: IMG-20150813-WA0002.jpg
-caption_header:  
-caption: Gaia Berlin
----

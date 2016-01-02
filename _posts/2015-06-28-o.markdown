@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-06-28 17:54:53
-photo: IMG-20150628-WA0002.jpg
-caption_header:  A questo gentile signore ho chiesto se potevo sedermi sulla panca. Permesso negato.
-caption: Tommy Lombardi
----

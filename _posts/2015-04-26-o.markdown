@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-04-26 12:19:27
-photo: IMG-20150426-WA0000.jpg
-caption_header:  
-caption: Tommy Lombardi
----

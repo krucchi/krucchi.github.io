@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-09-24 19:37:26
-photo: IMG-20150924-WA0007.jpg
-caption_header:  Saluti da Roma. Un bel esemplare
-caption: Max Baldelli
----

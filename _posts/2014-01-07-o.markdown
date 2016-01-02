@@ -1,7 +1,7 @@
 ---
 layout: default
 date: 2014-01-07 00:00:00
-photo: IMG-20140107-WA0014.jpg
+photo: IMG-20140107-WA0012.jpg
 caption_header: unknown
 caption: unknown
 ---

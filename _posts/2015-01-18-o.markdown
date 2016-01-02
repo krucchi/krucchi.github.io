@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-01-18 16:14:08
-photo: IMG-20150118-WA0003.jpg
-caption_header:  
-caption: Basti
----

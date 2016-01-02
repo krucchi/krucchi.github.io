@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-05-19 17:14:09
-photo: IMG-20150519-WA0010.jpg
-caption_header:  ABBELLIIIIIIIIII!!!
-caption: Basti
----

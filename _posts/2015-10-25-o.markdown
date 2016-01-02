@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-10-25 14:11:05
-photo: IMG-20151025-WA0018.jpg
-caption_header:  
-caption: Zeno
----

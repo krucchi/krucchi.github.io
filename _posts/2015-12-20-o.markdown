@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-12-20 15:41:34
-photo: IMG-20151220-WA0001.jpg
-caption_header:  
-caption: Angelica Ricciardi
----

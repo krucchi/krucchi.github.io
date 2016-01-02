@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-10-08 12:15:19
-photo: IMG-20151008-WA0000.jpg
-caption_header:  
-caption: Claus
----

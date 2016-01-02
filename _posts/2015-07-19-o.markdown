@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-07-19 00:50:46
-photo: IMG-20150719-WA0001.jpg
-caption_header:  
-caption: Jacob
----

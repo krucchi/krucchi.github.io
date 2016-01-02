@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-02-14 18:45:49
-photo: IMG-20150214-WA0005.jpg
-caption_header:  
-caption: Maria Fugazzola
----

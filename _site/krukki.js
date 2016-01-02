@@ -7,12 +7,14 @@ fse.removeSync('./img/large/*')*/
 
 var chat = fs.readFileSync('chat.txt').toString().split("\n");
 
+
 var filteredArray = chat.filter(function(line, index){
 
 	return (line.indexOf("IMG-") > -1);
 
 });
 
+//console.log(filteredArray)
 filteredArray.forEach(function(line, index){
 	
 
@@ -50,7 +52,7 @@ filteredArray.forEach(function(line, index){
 				   + "---\n";
 	//console.log(markdown);
 	
-	fs.writeFile("./_posts/" + date + "-o.markdown", markdown); 
+	fs.writeFile("./_posts/" + date + "-" + time + "-o.markdown", markdown); 
 
 	
 	/*fse.copy('./all_images/' + imgName, './img/large/' + imgName, function (err) {

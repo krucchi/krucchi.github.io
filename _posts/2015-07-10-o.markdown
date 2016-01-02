@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-07-10 10:36:04
-photo: IMG-20150710-WA0001.jpg
-caption_header:  
-caption: Tommy Lombardi
----

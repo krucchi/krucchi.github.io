@@ -1,7 +1,0 @@
----
-layout: default
-date: 2014-11-06 09:01:56
-photo: IMG-20141107-WA0000.jpg
-caption_header:  Buongiorno a tutti!
-caption: Giulia Moneta
----

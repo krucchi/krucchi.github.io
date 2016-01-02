@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-11-07 23:35:55
-photo: IMG-20151107-WA0008.jpg
-caption_header:  La cioccolata del vicino è la migliore
-caption: Tommy Lombardi
----

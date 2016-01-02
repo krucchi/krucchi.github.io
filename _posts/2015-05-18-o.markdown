@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-05-18 10:11:35
-photo: IMG-20150518-WA0000.jpg
-caption_header:  Il massagio con una G sola...
-caption: Giulia Moneta
----

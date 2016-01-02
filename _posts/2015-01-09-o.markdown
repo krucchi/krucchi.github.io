@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-01-09 12:57:39
-photo: IMG-20150109-WA0004.jpg
-caption_header:  La marca sidroga nella farmacia bong!
-caption: Giulia Moneta
----

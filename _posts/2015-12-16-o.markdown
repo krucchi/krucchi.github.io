@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-12-16 13:34:34
-photo: IMG-20151216-WA0004.jpg
-caption_header:  
-caption: Tommy Lombardi
----

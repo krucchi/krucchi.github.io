@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-12-27 14:59:37
-photo: IMG-20151227-WA0002.jpg
-caption_header:  Un classico ......
-caption: Claus
----

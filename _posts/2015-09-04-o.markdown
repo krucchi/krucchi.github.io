@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-09-04 23:57:21
-photo: IMG-20150904-WA0004.jpg
-caption_header:  
-caption: Angelica Ricciardi
----

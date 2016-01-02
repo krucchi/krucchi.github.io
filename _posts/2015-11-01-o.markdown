@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-11-01 21:55:34
-photo: IMG-20151101-WA0003.jpg
-caption_header:  Per me un gorgonzo per favore! 
-caption: Giulia Moneta
----

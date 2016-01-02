@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-12-15 18:38:29
-photo: IMG-20151215-WA0011.jpg
-caption_header:  Prevenire è meglio che curare ! 
-caption: Claus
----

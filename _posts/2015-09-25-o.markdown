@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-09-25 09:42:16
-photo: IMG-20150925-WA0000.jpg
-caption_header:  Ma quali sarebbero gli spaghetti non per la Gabel?
-caption: Tommy Lombardi
----

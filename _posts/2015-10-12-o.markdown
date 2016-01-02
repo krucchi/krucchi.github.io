@@ -1,9 +1,0 @@
----
-layout: default
-date: 2015-10-12 21:56:26
-photo: IMG-20151012-WA0009.jpg
-caption_header:  
-caption: Marocco
----
-di
----

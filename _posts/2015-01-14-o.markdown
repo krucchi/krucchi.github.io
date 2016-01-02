@@ -1,7 +1,0 @@
----
-layout: default
-date: 2015-01-14 15:03:09
-photo: IMG-20150114-WA0002.jpg
-caption_header:  
-caption: Jacob
----
