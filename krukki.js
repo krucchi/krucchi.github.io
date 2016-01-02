@@ -2,8 +2,8 @@ var fs = require('fs');
 var fse = require('fs-extra')
 
 fse.removeSync('./_posts/*')
-/*fse.removeSync('./img/thumb/*')
-fse.removeSync('./img/large/*')*/
+fse.removeSync('./img/thumb/*')
+fse.removeSync('./img/large/*')
 
 var chat = fs.readFileSync('chat.txt').toString().split("\n");
 
@@ -59,7 +59,7 @@ filteredArray.forEach(function(line, index){
 	fs.writeFile("./_posts/" + date + "-" + time + ".markdown", markdown); 
 
 	
-	/*fse.copy('./all_images/' + imgName, './img/large/' + imgName, function (err) {
+	fse.copy('./all_images/' + imgName, './img/large/' + imgName, function (err) {
 	  if (err) return console.error(err)
 	  //console.log("success!")
 	}) // copies filee));	
@@ -68,7 +68,7 @@ filteredArray.forEach(function(line, index){
 	  if (err) return console.error(err)
 	  //console.log("success!")
 	}) // copies filee));
-	*/
+	
 
 })
 
