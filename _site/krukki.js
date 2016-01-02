@@ -33,7 +33,11 @@ filteredArray.forEach(function(line, index){
 	}
 
 	var date = splittedLine[0];
+
 	var time = splittedLine[1];
+	time.replace(/:/g, "-");
+
+
 	var imgName = line.match(/IMG-.*\.jpg/g)[0];
 
 	if(splittedLine[5].split(":")[3]){
@@ -52,7 +56,7 @@ filteredArray.forEach(function(line, index){
 				   + "---\n";
 	//console.log(markdown);
 	
-	fs.writeFile("./_posts/" + date + "-" + time + "-o.markdown", markdown); 
+	fs.writeFile("./_posts/" + date + "-" + time + ".markdown", markdown); 
 
 	
 	/*fse.copy('./all_images/' + imgName, './img/large/' + imgName, function (err) {
@@ -74,7 +78,7 @@ fs.readdir('./old_krukki', function(err, files){
 
 		var dateYYYYMMDD = file.split("-")[1];
 		var date = dateYYYYMMDD.replace(/(\d\d\d\d)(\d\d)(\d\d)/g, '$1-$2-$3');
-		var time = "00:00:00";
+		var time = "00-00-00";
 		var author = "unknown";
 		var caption = "unknown";
 
@@ -86,7 +90,7 @@ fs.readdir('./old_krukki', function(err, files){
 					   + "caption: " + author + "\n"
 					   + "---\n";
 
-		fs.writeFile("./_posts/" + date + "-o.markdown", markdown); 
+		fs.writeFile("./_posts/" + date + "-" + time + ".markdown", markdown); 
 		
 		//console.log(date)
 	});

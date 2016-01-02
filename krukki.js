@@ -33,7 +33,11 @@ filteredArray.forEach(function(line, index){
 	}
 
 	var date = splittedLine[0];
+
 	var time = splittedLine[1];
+	time.replace(/:/g, "-");
+
+
 	var imgName = line.match(/IMG-.*\.jpg/g)[0];
 
 	if(splittedLine[5].split(":")[3]){
@@ -74,7 +78,7 @@ fs.readdir('./old_krukki', function(err, files){
 
 		var dateYYYYMMDD = file.split("-")[1];
 		var date = dateYYYYMMDD.replace(/(\d\d\d\d)(\d\d)(\d\d)/g, '$1-$2-$3');
-		var time = "00:00:00";
+		var time = "00-00-00";
 		var author = "unknown";
 		var caption = "unknown";
 
