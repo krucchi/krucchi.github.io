@@ -1,7 +1,0 @@
----
-layout: default
-date: 2014-10-19 00:00:00
-photo: IMG-20141019-WA0027.jpg
-caption_header: unknown
-caption: unknown
----

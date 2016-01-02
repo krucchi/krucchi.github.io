@@ -1,7 +1,0 @@
----
-layout: default
-date: 2014-04-06 00:00:00
-photo: IMG-20140406-WA0003.jpg
-caption_header: unknown
-caption: unknown
----

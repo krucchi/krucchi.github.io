@@ -1,7 +1,0 @@
----
-layout: default
-date: 2013-12-14 00:00:00
-photo: IMG-20131214-WA0012.jpg
-caption_header: unknown
-caption: unknown
----
