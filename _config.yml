@@ -1,8 +1,8 @@
-name: krukki
+name: krucchi
 markdown: redcarpet
 highlighter: rouge
 permalink: /:year/:month/:title/
-url: http://krukki.github.io
+url: http://krucchi.github.io
 author:
     name: kubante
     twitter: #kubante
