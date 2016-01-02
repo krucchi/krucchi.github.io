@@ -52,7 +52,7 @@ filteredArray.forEach(function(line, index){
 				   + "---\n";
 	//console.log(markdown);
 	
-	fs.writeFile("./_posts/" + date + "-" + time + "-o.markdown", markdown); 
+	fs.writeFile("./_posts/" + date + "-" + time + ".markdown", markdown); 
 
 	
 	/*fse.copy('./all_images/' + imgName, './img/large/' + imgName, function (err) {
@@ -71,7 +71,6 @@ filteredArray.forEach(function(line, index){
 fs.readdir('./old_krukki', function(err, files){
 	if (err) return console.error(err)
 	files.forEach(function(file, index){
-		console.log(file)
 
 		var dateYYYYMMDD = file.split("-")[1];
 		var date = dateYYYYMMDD.replace(/(\d\d\d\d)(\d\d)(\d\d)/g, '$1-$2-$3');
@@ -87,7 +86,7 @@ fs.readdir('./old_krukki', function(err, files){
 					   + "caption: " + author + "\n"
 					   + "---\n";
 
-		fs.writeFile("./_posts/" + date + "-" + time + "-o.markdown", markdown); 
+		fs.writeFile("./_posts/" + date + "-" + time + ".markdown", markdown); 
 		
 		//console.log(date)
 	});
