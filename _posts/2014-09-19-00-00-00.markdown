@@ -1,7 +1,0 @@
----
-layout: default
-date: 2014-09-19 00-00-00
-photo: IMG-20140919-WA0005.jpg
-caption_header: unknown
-caption: unknown
----

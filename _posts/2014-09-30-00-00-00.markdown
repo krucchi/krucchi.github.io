@@ -1,7 +1,0 @@
----
-layout: default
-date: 2014-09-30 00-00-00
-photo: IMG-20140930-WA0001.jpg
-caption_header: unknown
-caption: unknown
----

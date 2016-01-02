@@ -78,7 +78,7 @@ fs.readdir('./old_krukki', function(err, files){
 
 		var dateYYYYMMDD = file.split("-")[1];
 		var date = dateYYYYMMDD.replace(/(\d\d\d\d)(\d\d)(\d\d)/g, '$1-$2-$3');
-		var time = "00-00-00";
+		var time = "00-00-" + index;
 		var author = "unknown";
 		var caption = "unknown";
 

@@ -1,7 +1,0 @@
----
-layout: default
-date: 2014-08-15 00-00-00
-photo: IMG-20140815-WA0000.jpg
-caption_header: unknown
-caption: unknown
----

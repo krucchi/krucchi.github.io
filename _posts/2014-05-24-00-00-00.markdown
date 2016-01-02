@@ -1,7 +1,0 @@
----
-layout: default
-date: 2014-05-24 00-00-00
-photo: IMG-20140524-WA0000.jpg
-caption_header: unknown
-caption: unknown
----

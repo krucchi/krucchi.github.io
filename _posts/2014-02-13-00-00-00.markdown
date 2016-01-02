@@ -1,7 +1,0 @@
----
-layout: default
-date: 2014-02-13 00-00-00
-photo: IMG-20140213-WA0002.jpg
-caption_header: unknown
-caption: unknown
----
