@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2014-04-26 00-00-50
+photo: IMG-20140426-WA0000.jpg
+caption_header: unknown
+caption: unknown
+---

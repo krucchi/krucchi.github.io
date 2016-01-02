@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2014-07-12 00-00-77
+photo: IMG-20140712-WA0002.jpg
+caption_header: unknown
+caption: unknown
+---

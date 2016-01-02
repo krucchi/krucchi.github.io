@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2014-06-19 00-00-67
+photo: IMG-20140619-WA0004.jpg
+caption_header: unknown
+caption: unknown
+---

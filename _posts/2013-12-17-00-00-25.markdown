@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2013-12-17 00-00-25
+photo: IMG-20131217-WA0003.jpg
+caption_header: unknown
+caption: unknown
+---
