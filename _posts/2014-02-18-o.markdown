@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2014-02-18 00:00:00
+photo: IMG-20140218-WA0002.jpg
+caption_header: unknown
+caption: unknown
+---

@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2013-12-08 00:00:00
+photo: IMG-20131208-WA0002.jpg
+caption_header: unknown
+caption: unknown
+---

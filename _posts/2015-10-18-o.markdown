@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-10-18 13:13:00
+photo: IMG-20151018-WA0002.jpg
+caption_header:  Cose da flohmarkt...
+caption: Max Baldelli
+---

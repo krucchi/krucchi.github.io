@@ -1,0 +1,10 @@
+---
+layout: default
+date: 2015-01-30 23:57:17
+photo: IMG-20150130-WA0002.jpg
+caption_header:  
+caption: Maria Fugazzola
+---
+ tutto un programma..
+caption: Tommy Lombardi
+---

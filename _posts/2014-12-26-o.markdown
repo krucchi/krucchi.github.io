@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2014-12-26 17:01:01
+photo: IMG-20141226-WA0003.jpg
+caption_header:  Buon Natale da qui! 🎄
+caption: Zeno
+---

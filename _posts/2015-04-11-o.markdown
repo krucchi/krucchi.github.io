@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-04-11 22:20:26
+photo: IMG-20150411-WA0002.jpg
+caption_header:  
+caption: Max Baldelli
+---

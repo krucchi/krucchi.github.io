@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-05-23 18:48:03
+photo: IMG-20150523-WA0009.jpg
+caption_header:  è la stagione del grill e il krukko si esalta. il tipo di carne non importa, basta che sia schön mariniert..ma vaff...
+caption: Basti
+---

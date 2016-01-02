@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2014-07-13 00:00:00
+photo: IMG-20140713-WA0001.jpg
+caption_header: unknown
+caption: unknown
+---

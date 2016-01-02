@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-08-28 22:36:03
+photo: IMG-20150828-WA0012.jpg
+caption_header:  Right-brain solutions alla carestia di mucche che sta affliggendo l'Umbria da mesi...
+caption: Zeno
+---

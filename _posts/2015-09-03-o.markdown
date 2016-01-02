@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-09-03 14:03:17
+photo: IMG-20150903-WA0005.jpg
+caption_header:  Mancava solo lui!! 
+caption: Giulia Moneta
+---

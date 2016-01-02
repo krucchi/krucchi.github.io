@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2014-08-28 00:00:00
+photo: IMG-20140828-WA0003.jpg
+caption_header: unknown
+caption: unknown
+---

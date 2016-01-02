@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-11-18 19:47:03
+photo: IMG-20151118-WA0010.jpg
+caption_header:  😇
+caption: Giulia Moneta
+---
